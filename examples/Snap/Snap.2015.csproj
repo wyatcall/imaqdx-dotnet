@@ -3,7 +3,7 @@
     <OutputPath>bin\x86\Release\</OutputPath>
   </PropertyGroup>
   <PropertyGroup>
-    <TargetFramework>net45</TargetFramework>
+    <TargetFramework>net472</TargetFramework>
     <OutputType>WinExe</OutputType>
     <RootNamespace>Snap</RootNamespace>
     <AssemblyName>Snap</AssemblyName>

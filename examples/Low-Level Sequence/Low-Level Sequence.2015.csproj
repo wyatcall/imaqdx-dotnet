@@ -1,6 +1,6 @@
 ﻿<Project Sdk="Microsoft.NET.Sdk">
   <PropertyGroup>
-    <TargetFramework>net45</TargetFramework>
+    <TargetFramework>net472</TargetFramework>
     <OutputType>WinExe</OutputType>
     <RootNamespace>Low_Level_Sequence</RootNamespace>
     <AssemblyName>Low_Level_Sequence</AssemblyName>
