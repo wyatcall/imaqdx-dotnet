@@ -18,7 +18,7 @@ namespace ConsoleExample
                     var session = new ImaqdxSession(la.Name);
                     session.ConfigureGrab();
 
-                    VisionImage image = new VisionImage(ImageType.Rgb32, 0);
+                    VisionImage image = new VisionImage();
 
                     session.Grab(null, true, out uint bufferNumber);
 
